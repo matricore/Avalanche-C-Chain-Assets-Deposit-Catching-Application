@@ -1,0 +1,22 @@
+{
+  "name": "avaxc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "big.js": "^6.1.1",
+    "dotenv": "^16.0.0",
+    "moment": "^2.29.1",
+    "net": "^1.0.2",
+    "redis": "^3.1.2",
+    "web3": "^1.7.1",
+    "winston": "^3.6.0",
+    "winston-daily-rotate-file": "^4.6.1"
+  }
+}
