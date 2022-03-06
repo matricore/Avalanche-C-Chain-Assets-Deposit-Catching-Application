@@ -3,7 +3,9 @@ Avalanche C Chain Assets Deposit or Transfer Detecting Application
 Requirements
 
 1- Running Avalanche Node With C Chain Support (Please check https://docs.avax.network/build/tutorials/platform/integrate-exchange-with-avalanche/ )
+
 2- Node.Js > 10
+
 3- Locally Running Redis Server
 
 Please change .env file "CONTRACT_ADDRESS" section with corresponding contract address. In this example We use USDT Native contract address. 
