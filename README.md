@@ -1,2 +1,2 @@
-# Avalanche C Chain Assets Deposit Catching Application
+# Avalanche C Chain Assets Deposit or Transfer Detecting Application
  
