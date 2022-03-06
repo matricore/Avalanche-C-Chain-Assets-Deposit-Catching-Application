@@ -15,3 +15,5 @@ Instructions
 
 index.js connect web socket server and subscribe contracts events. if detects any related transactions it writes to the redis hashset.
 confirmation.js checks the redis hashset and controls if transaction(s) has sufficient confirmations. It runs every minute for doing that checks.
+
+run index.js at first, after that run confirmation.js in another session. (pm2 or screen etc.)
